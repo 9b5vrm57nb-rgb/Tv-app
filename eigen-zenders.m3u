@@ -1,0 +1,5 @@
+#EXTM3U
+# Zet hier je eigen zenders. Per zender twee regels:
+#   #EXTINF:-1 tvg-logo="https://.../logo.png",Naam van de zender
+#   https://adres-van-de-stream.m3u8
+# Alleen streams die je legaal mag kijken (gratis openbaar of je eigen abonnement).

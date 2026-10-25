@@ -1,0 +1,7 @@
+# Bronnen voor je eigen IPTV-lijst.
+# Formaat per regel:  Groepnaam | URL van een M3U-lijst
+# Regels die met # beginnen worden overgeslagen.
+
+Series | https://iptv-org.github.io/iptv/categories/series.m3u
+Nederland | https://raw.githubusercontent.com/iptv-org/iptv/master/streams/nl.m3u
+België | https://raw.githubusercontent.com/iptv-org/iptv/master/streams/be.m3u
