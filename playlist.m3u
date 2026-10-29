@@ -299,6 +299,8 @@ https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8
 https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="HauntTV.ca@CA" tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png",HauntTV CA (720p)
 https://jmp2.uk/plu-63934c218ef524000757b122.m3u8
+#EXTINF:-1 group-title="Series" tvg-id="HBO2.pl@SD" tvg-logo="https://i.imgur.com/2e3muOJ.png",HBO 2 (Poland) (1080p)
+http://185.227.34.179:8080/hbo-2-hd/index.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="HBO2LatinAmerica.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png",HBO 2 Latin America HD (1080p)
 http://45.171.64.30:6060/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="HBO.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",HBO (United States) (720p)
@@ -329,7 +331,7 @@ https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8
 https://jmp2.uk/plu-693ae65fab5959c036fa6c1e.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="HTV3.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png",HTV3 (720p)
 https://dethich.pw/htv3/index.m3u8
-#EXTINF:-1 group-title="Series" tvg-id="HTVCMovies.vn@SD" tvg-logo="",HTVC Movies (720p)
+#EXTINF:-1 group-title="Series" tvg-id="HTVCMovies.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/HTVC%20Phim%20HD.png",HTVC Movies (720p)
 https://dethich.pw/htvcphim/index.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="iCarly.us@BR" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png",iCarly (United States)
 https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
@@ -1607,3 +1609,5 @@ https://lb.iptvnetwork.net/ls28/10033/playlist.m3u8
 https://lb.iptvnetwork.net/ls28/10037/playlist.m3u8
 #EXTINF:-1 group-title="België" tvg-id="VTM4.be@SD",VTM 4 (360p)
 https://lb.iptvnetwork.net/ls28/10038/playlist.m3u8
+#EXTINF:-1 group-title="België" tvg-id="LaUne.be@SD",La Une (1080p)
+http://41.205.93.154/LA-UNE/index.m3u8
