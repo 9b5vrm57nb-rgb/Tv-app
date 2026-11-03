@@ -947,6 +947,8 @@ http://190.93.224.42/TNT-NOVELAS/index.m3u8
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="TNTNovelas.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",TNT Novelas Colombia (1080p)
 http://190.61.47.54:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="Series" tvg-id="TNTNovelas.us@ColombiaHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",TNT Novelas ColombiaHD (1080p)
+http://181.78.79.131:8000/play/a0na
 #EXTINF:-1 group-title="Series" tvg-id="TNTSeriesLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series Latin America (1080p)
 http://168.196.127.137:6001/play/a095/index.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="TNTSeriesLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",TNT Series Latin America South
@@ -1499,6 +1501,8 @@ http://185.77.12.179:9981/stream/channelid/788918401?profile=pass
 http://185.77.12.179:9981/stream/channelid/2102298310?profile=pass
 #EXTINF:-1 group-title="Nederland" tvg-id="CanalPlusActionEurope.nl@Magyar",Canal+ Action Europe Magyar
 http://193.33.39.108:9016/play/a02n
+#EXTINF:-1 group-title="Nederland" tvg-id="BVN.nl@SD",BVN (576p)
+http://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L2/c0620faf/27ea2088.isml/.mpd
 #EXTINF:-1 group-title="België" tvg-id="ACTV.be@SD",ACTV (504p)
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
 #EXTINF:-1 group-title="België" tvg-id="ACTV.be@SD",ACTV [Geo-blocked]
@@ -1613,8 +1617,6 @@ https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6
 https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.mpd
 #EXTINF:-1 group-title="België" tvg-id="WTV.be@SD",WTV
 https://wtvlive.b-cdn.net/playlist.m3u8
-#EXTINF:-1 group-title="België" tvg-id="VTM2.be@SD",VTM 2 (360p)
-https://lb.iptvnetwork.net/ls28/10035/playlist.m3u8
 #EXTINF:-1 group-title="België" tvg-id="VTM.be@SD",VTM (360p)
 https://lb.iptvnetwork.net/ls28/10033/playlist.m3u8
 #EXTINF:-1 group-title="België" tvg-id="VTM3.be@SD",VTM 3 (360p)
