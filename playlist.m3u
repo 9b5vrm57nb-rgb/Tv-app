@@ -691,8 +691,6 @@ https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
 http://57.128.210.196:8080/196/index.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="PolsatSeriale.pl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png",Polsat Seriale HD (1080i)
 http://92.114.85.87:8014/play/a00a/index.m3u8
-#EXTINF:-1 group-title="Series" tvg-id="RakutenViki.us@Spain" tvg-logo="https://i.imgur.com/pbyd1g2.png",Rakuten Viki (1080p)
-https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="RakutenViki.us@Poland" tvg-logo="https://i.imgur.com/pbyd1g2.png",Rakuten Viki Poland (720p)
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="Rawhide.us@SD" tvg-logo="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png",Rawhide
@@ -967,7 +965,7 @@ https://www.a1mediagroep.nl/hls/a1tv.m3u8
 https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
 #EXTINF:-1 group-title="Nederland" tvg-id="AssenTV.nl@SD",Assen TV (720p)
 https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live
-#EXTINF:-1 group-title="Nederland" tvg-id="AT5.nl@SD",AT5
+#EXTINF:-1 group-title="Nederland" tvg-id="AT5.nl@SD",AT5 (1080p)
 https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 group-title="Nederland" tvg-id="BBCNL.nl@HD",BBC NL (360p)
 https://lb.iptvnetwork.net/ls28/10021/playlist.m3u8
@@ -1427,7 +1425,7 @@ https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 #EXTINF:-1 group-title="België" tvg-id="EbSPlus.be@SD",EBS Plus (1080p)
 https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
-#EXTINF:-1 group-title="België" tvg-id="FunVision.be@SD",Fun Vision
+#EXTINF:-1 group-title="België" tvg-id="FunVision.be@SD",Fun Vision (1080p)
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1 group-title="België" tvg-id="HLNLive.be@SD",HLN Live (720p)
 https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
@@ -1523,5 +1521,5 @@ https://lb.iptvnetwork.net/ls28/10033/playlist.m3u8
 https://lb.iptvnetwork.net/ls28/10037/playlist.m3u8
 #EXTINF:-1 group-title="België" tvg-id="VTM4.be@SD",VTM 4 (360p)
 https://lb.iptvnetwork.net/ls28/10038/playlist.m3u8
-#EXTINF:-1 group-title="België" tvg-id="WTV.be@SD",WTV
+#EXTINF:-1 group-title="België" tvg-id="WTV.be@SD",WTV (1080p)
 https://wtvlive.b-cdn.net/playlist.m3u8
