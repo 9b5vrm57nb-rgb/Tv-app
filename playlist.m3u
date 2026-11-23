@@ -169,7 +169,7 @@ https://cityeden.catcast.tv/content/38354/index.m3u8
 https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="ClassicMovieWesterns.us@SD" tvg-logo="https://images.pluto.tv/channels/61f33318210549000806a530/colorLogoPNG.png",Classic Movie Westerns
 https://jmp2.uk/plu-61f33318210549000806a530.m3u8
-#EXTINF:-1 group-title="Series" tvg-id="CNBCe.tr@SD" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png",CNBC-e
+#EXTINF:-1 group-title="Series" tvg-id="CNBCe.tr@SD" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png",CNBC-e (1080p)
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="ColdCaseFiles.us@SD" tvg-logo="https://i.imgur.com/mowSfj6.png",Cold Case Files (1080p)
 https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
@@ -315,8 +315,8 @@ https://jmp2.uk/plu-693ae6bf0ddf7d2a40b7fd35.m3u8
 https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="HouseofLies.se@NO" tvg-logo="https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png",House of Lies NO
 https://jmp2.uk/plu-693ae65fab5959c036fa6c1e.m3u8
-#EXTINF:-1 group-title="Series" tvg-id="HTV3.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png",HTV3 (720p)
-https://dethich.pw/htv3/index.m3u8
+#EXTINF:-1 group-title="Series" tvg-id="HTV3.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png",HTV3 (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=192
 #EXTINF:-1 group-title="Series" tvg-id="HTVCMovies.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/HTVC%20Phim%20HD.png",HTVC Movies (720p)
 https://dethich.pw/htvcphim/index.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="iCarly.us@BR" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png",iCarly
@@ -929,7 +929,7 @@ http://777905.live.tvstitch.com/playlist.m3u8?master=599&source=aHR0cDovLzE3Ni4x
 http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="vijuPlusSerial.ru@HD" tvg-logo="https://i.imgur.com/8yXZET5.png",viju+ Serial HD (1080p)
 http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
-#EXTINF:-1 group-title="Series" tvg-id="VivaTelenovelas.il@SD" tvg-logo="https://static.g-cdn.app/streams/viva-il.png",Viva Telenovelas
+#EXTINF:-1 group-title="Series" tvg-id="VivaTelenovelas.il@SD" tvg-logo="https://static.g-cdn.app/streams/viva-il.png",Viva Telenovelas (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="WalkerTexasRanger.us@France" tvg-logo="https://i.imgur.com/0N7EhuD.png",Walker Texas Ranger
 https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
@@ -983,6 +983,8 @@ http://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L2/c0620faf/27ea2088.isml/.mpd
 https://lb.iptvnetwork.net/ls28/10025/playlist.m3u8
 #EXTINF:-1 group-title="Nederland" tvg-id="CanalPlusActionEurope.nl@Netherlands",Canal+ Action Europe (360p)
 https://lb.iptvnetwork.net/ls28/10020/playlist.m3u8
+#EXTINF:-1 group-title="Nederland" tvg-id="CanalPlusActionEurope.nl@Austria",Canal+ Action Europe Austria
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3856042964fb24f530c4bc
 #EXTINF:-1 group-title="Nederland" tvg-id="CanalPlusActionEurope.nl@Czechia",Canal+ Action Europe Czechia
 http://46.149.191.219:9106/play/a01g
 #EXTINF:-1 group-title="Nederland" tvg-id="CanalPlusActionEurope.nl@Magyar",Canal+ Action Europe Magyar
@@ -1009,6 +1011,8 @@ http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
 https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/playlist.m3u8
 #EXTINF:-1 group-title="Nederland" tvg-id="DocuBox.nl@SD",DocuBox
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="Nederland" tvg-id="DocuBox.nl@Polska",DocuBox Polska
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28937292062f43eb29b758
 #EXTINF:-1 group-title="Nederland" tvg-id="DocuBox.nl@Russia",DocuBox Russia
 http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8
 #EXTINF:-1 group-title="Nederland" tvg-id="DTVDenBosch.nl@SD",DTV Den Bosch (1080p)
@@ -1077,6 +1081,8 @@ https://stream.fomixmedia.nl/FomixTV/video.m3u8
 https://webtvstream.bhtelecom.ba/funbox.m3u8
 #EXTINF:-1 group-title="Nederland" tvg-id="Gametoon.nl@SD",Gametoon (720p)
 https://webtvstream.bhtelecom.ba/gametoon.m3u8
+#EXTINF:-1 group-title="Nederland" tvg-id="Gametoon.nl@Polska",Gametoon Polska
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3115121417365d361fa7f9
 #EXTINF:-1 group-title="Nederland" tvg-id="GigantFM.nl@SD",Gigant FM (720p)
 https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
 #EXTINF:-1 group-title="Nederland" tvg-id="Haarlem105TV.nl@SD",Haarlem105 RTV (720p)
@@ -1133,6 +1139,8 @@ https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
 https://ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Nederland" tvg-id="ML5TV.nl@SD",ML5 TV (480p) [Not 24/7]
 https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Nederland" tvg-id="MTV.nl@SD",MTV
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F8342374230cdd9e7b7646
 #EXTINF:-1 group-title="Nederland" tvg-id="NationalGeographic.nl@SD",National Geographic (360p)
 https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8
 #EXTINF:-1 group-title="Nederland" tvg-id="NationalGeographic.nl@HD",National Geographic HD (1080p)
@@ -1141,6 +1149,8 @@ http://46.32.176.50/NationalGeographicHD/index.m3u8
 https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 group-title="Nederland" tvg-id="Nickelodeon.nl@SD",Nickelodeon
 http://185.77.12.179:9981/stream/channelid/788918401?profile=pass
+#EXTINF:-1 group-title="Nederland" tvg-id="Nickelodeon.nl@HD",Nickelodeon HD (1080i)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3652339071
 #EXTINF:-1 group-title="Nederland" tvg-id="NOOSTV.nl@SD",NOOS TV (720p)
 https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
 #EXTINF:-1 group-title="Nederland" tvg-id="NPO1.nl@SD",NPO 1 (360p)
