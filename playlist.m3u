@@ -1001,12 +1001,6 @@ https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
 #EXTINF:-1 group-title="Nederland" tvg-id="DiscoveryChannel.nl@SD",Discovery Channel (360p)
 https://lb.iptvnetwork.net/ls28/10015/playlist.m3u8
-#EXTINF:-1 group-title="Nederland" tvg-id="DisneyChannel.nl@SD",Disney Channel (360p)
-https://lb.iptvnetwork.net/ls28/10014/playlist.m3u8
-#EXTINF:-1 group-title="Nederland" tvg-id="DisneyChannel.nl@SD",Disney Channel
-http://86.87.15.10:8004/play/a02g/index.m3u8
-#EXTINF:-1 group-title="Nederland" tvg-id="DisneyChannel.nl@SD",Disney Channel
-http://185.77.12.179:9981/stream/channelid/2102298310?profile=pass
 #EXTINF:-1 group-title="Nederland" tvg-id="DitisHelmond.nl@SD",Dit is Helmond (480p)
 http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Nederland" tvg-id="DitisHelmond.nl@SD",Dit is Helmond (480p)
@@ -1391,16 +1385,6 @@ https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 #EXTINF:-1 group-title="Nederland" tvg-id="WOS.nl@SD",WOS TV (1080p)
 https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
-#EXTINF:-1 group-title="Nederland" tvg-id="XITE.nl@SD",XITE (720p) [Not 24/7]
-https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
-#EXTINF:-1 group-title="Nederland" tvg-id="XITE.nl@SD",XITE (720p) [Not 24/7]
-https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
-#EXTINF:-1 group-title="Nederland" tvg-id="XITEHits.nl@Germany",XITE Hits Germany (1080p)
-https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
-#EXTINF:-1 group-title="Nederland" tvg-id="XITEHits.nl@UK",XITE Hits UK (1080p)
-https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
-#EXTINF:-1 group-title="Nederland" tvg-id="XITERockxMetal.nl@US",XITE Rock x Metal (1080p) [Geo-blocked]
-https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Nederland" tvg-id="XON.nl@SD",XON (480p) [Not 24/7]
 http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Nederland" tvg-id="XON.nl@SD",XON (480p) [Not 24/7]
@@ -1461,6 +1445,8 @@ https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9
 https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8
 #EXTINF:-1 group-title="België" tvg-id="MNM.be@SD",MNM (720p)
 https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.mpd
+#EXTINF:-1 group-title="België" tvg-id="NickelodeonFlanders.be@SD",Nickelodeon Flanders
+http://93.92.17.139:9981/stream/channelid/788918401?profile=pass
 #EXTINF:-1 group-title="België" tvg-id="Notele.be@SD",Notele (576p) [Not 24/7]
 https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 #EXTINF:-1 group-title="België" tvg-id="PlayCrime.be@SD",Play Crime (1080p) [Geo-blocked]
